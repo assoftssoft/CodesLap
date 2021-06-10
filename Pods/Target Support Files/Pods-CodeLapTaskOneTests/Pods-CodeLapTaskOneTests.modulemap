@@ -1,0 +1,6 @@
+framework module Pods_CodeLapTaskOneTests {
+  umbrella header "Pods-CodeLapTaskOneTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
